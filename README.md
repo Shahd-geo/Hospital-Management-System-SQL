@@ -44,7 +44,3 @@ The database was implemented based on the ERD and Mapping diagrams using SQL Ser
 - T-SQL
 
 The project includes complete CREATE TABLE statements with constraints and relationships.
-
-## Screenshots
-
-![SQL](execution.png)
