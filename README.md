@@ -43,8 +43,6 @@ The database was implemented based on the ERD and Mapping diagrams using SQL Ser
 - SQL Server
 - T-SQL
 
-## SQL Schema
-
 The project includes complete CREATE TABLE statements with constraints and relationships.
 
 ## Screenshots
